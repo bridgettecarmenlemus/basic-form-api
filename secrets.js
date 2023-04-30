@@ -1,0 +1,1 @@
+export const uri = 'mongodb+srv://bridgettelemusse:Weston123$@bridgettecluster.mlsbn.mongodb.net/test'
